@@ -40,7 +40,9 @@ int main (){
 
 
         case Winkel:
+        
         case Hoehe:
+        
         case Fleache:
 
 
